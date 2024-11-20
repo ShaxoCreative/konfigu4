@@ -1,7 +1,7 @@
 Входные данные: <br>
 ![Снимок экрана 2024-11-20 234233](https://github.com/user-attachments/assets/0229c5b2-92f7-4144-b924-e8a3b12eafcd) <br>
 Лог-файл: <br>
-![Снимок экрана 2024-11-20 234233](https://github.com/user-attachments/assets/0f4bc8ce-4039-478d-8a03-94fabf4703b2) <br>
+![Снимок экрана 2024-11-20 234307](https://github.com/user-attachments/assets/79d2d532-6e12-4b4e-a81d-73ab232643bc) <br>
 Бинарный код: <br>
 ![Снимок экрана 2024-11-20 234627](https://github.com/user-attachments/assets/4933eaf3-229f-4e04-b6c8-6a4eb86abd3e) <br>
 Итоговый файл: <br>
